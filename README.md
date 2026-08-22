@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">📚 I'm currently learning Technology Information! 🧑🏻‍💻<br>🎯 Goals: Multimedia Designer or UI/UX Designer <br>🎲 Fun fact: I have liked drawing since I was little, I love reading novels, manhwa, comic, highly adaptable and eager to learn new technologies!</p>
+<p data-importer="text" align="left">📚 I'm currently learning: Technology Information! 🧑🏻‍💻<br>🎯 Goals: Multimedia Designer or UI/UX Designer <br>🎲 Fun fact: I have liked drawing since I was little, I love reading novels, manhwa, comic, highly adaptable and eager to learn new technologies!</p>
 
 ###
 
